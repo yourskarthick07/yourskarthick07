@@ -1,11 +1,9 @@
 - 👋 Hi, I’m Karthick
 - 👀 I’m interested in 👇
-     ⁕ Software Development
+     ⁕ Data Science and Analytics
      ⁕ Machine Learning and Artificial Intelligence
      ⁕ Open Source Projects
-     ⁕ Web Development
-     ⁕ Data Science and Analytics
-- 🌱 I’m currently learning 👇
+  - 🌱 I’m currently learning 👇
      ⁕ Data Visualization Tools like Tableau and Power BI
      ⁕ Advanced Python Programming
      ⁕ Deep Learning Techniques
